@@ -215,3 +215,4 @@ docker compose up --build --force-recreate --renew-anon-volumes
 This does **not** delete the named PostgreSQL data volume. Do not add `-v` to `docker compose down` unless you intentionally want to delete the local database data.
 
 If npm cannot download packages, check internet access and run the same `docker compose up` command again after the connection is restored.
+Frontend deployment preparation.
