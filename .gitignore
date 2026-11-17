@@ -10,3 +10,5 @@ build/
 coverage/
 *.swp
 postgres_data/
+.neon
+backend/.env
